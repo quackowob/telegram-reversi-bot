@@ -28,19 +28,19 @@ This project was built as a demonstration of Telegram bot development and conver
 
 Users can start a game directly with the `/start` command.
 
-![Start Game](images/start-game.png)
+![Start Game](start-game.png)
 
 ### Turn-Based Gameplay
 
 The bot validates moves, updates the board, performs AI actions, and returns the latest game state.
 
-![Gameplay](images/gameplay.png)
+![Gameplay](gameplay.png)
 
 ### Automatic Result Calculation
 
 At the end of the match, the bot calculates scores and announces the winner automatically.
 
-![Game Result](images/game-result.png)
+![Game Result](game-result.png)
 
 ---
 
