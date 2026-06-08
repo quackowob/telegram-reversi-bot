@@ -1,0 +1,11 @@
+.idea/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local secrets
+bot_secret.py
+.env
+
+# Runtime files
+user_photo.jpg
